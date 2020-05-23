@@ -4,9 +4,9 @@
 Hello People, this is the second video on Facebook Automation Using python and selenium. The previous video has covered the login part and how we can post on Facebook using selenium and python.
 
 This video will deal with three objectives:
-     ### 1. Check the message conversation and give use list of friends 
-     ### 2.  Check the friend requests 
-     ### 3. Mark all notifications as read.
+### 1. Check the message conversation and give use list of friends 
+### 2.  Check the friend requests 
+### 3. Mark all notifications as read.
 There is a small task for you guys to try so don't forget to try that too.
 If you have any suggestions or commented please do drop in the comment box. Don't hesitate to ask any questions too.
 ********************************************************************
